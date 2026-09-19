@@ -1,0 +1,39 @@
+SITIO COMPLETO — TODO MENOS LA CARPETA img
+==========================================
+
+Esta carpeta tiene TODOS los archivos del sitio, al día, con la única
+excepción de img (las fotos, que ya están en GitHub y no cambian).
+
+Puedes subir todo de una, sin ir archivo por archivo:
+
+  1. Entra a tu repositorio en GitHub.
+  2. Add file > Upload files.
+  3. Abre esta carpeta, selecciona index.html, producto.html, robots.txt,
+     sitemap.xml y README.md, y arrástralos. Commit changes.
+  4. Vuelve a Add file > Upload files y arrastra la carpeta css completa.
+     Commit changes.
+  5. Otra vez Add file > Upload files y arrastra la carpeta js completa.
+     Commit changes.
+
+GitHub respeta la estructura al arrastrar una carpeta entera y reemplaza
+los archivos que tengan el mismo nombre. No subas este LEEME.txt.
+
+CONTENIDO
+  index.html
+  producto.html
+  robots.txt
+  sitemap.xml
+  README.md
+  css/estilos.css
+  js/config.js
+  js/datos-colores.js
+  js/datos-tallas.js
+  js/datos-productos.js
+  js/datos-marcas.js
+  js/comunes.js
+  js/catalogo.js
+  js/producto.js
+
+DESPUÉS DE SUBIR
+  Espera dos minutos y recarga con Ctrl + Shift + R.
+  En el celular, cierra la pestaña y vuelve a abrir el sitio.
