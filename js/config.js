@@ -8,9 +8,9 @@ window.CONFIG = {
   // ---- CONTACTO -----------------------------------------------------------
   // Número de WhatsApp en formato internacional, SIN + ni espacios.
   // Ejemplo Colombia: 573160537301
-  whatsapp: "573160537301",
+  whatsapp: "573160544381",
 
-  correo: "recursoshumanos@serrania.co",
+  correo: "gerenciacomercial@serrania.co",
 
   // ---- IMÁGENES -----------------------------------------------------------
   // Formato en el que subes las fotos: "jpg" o "webp".
