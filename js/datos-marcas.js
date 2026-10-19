@@ -15,14 +15,16 @@
    ========================================================================== */
 
 window.MARCAS = [
-  "Porsche", "Toyota", "Kia", "Honda", "Mazda", "Volkswagen", "Chevrolet",
-  "Seat", "Cupra", "Google", "Samsung", "Sony", "Avianca", "Primax",
-  "Mastercard", "BBVA", "Sura", "Mapfre", "Banco Falabella", "Banco AV Villas",
-  "Skandia", "Addi", "Universidad de los Andes", "Cemex", "Corona",
-  "Pavco Wavin", "Amarilo", "Globant", "Colcafé", "Heineken", "Grupo Nutresa",
-  "Postobón", "Cerveza Andina", "Purina", "Henkel", "Quala", "Rappi",
-  "Amor Perfecto", "Alianza Team", "Bold", "Bayer", "Enel", "Cusezar",
-  "Canal RCN", "Oracle", "Abbott", "Festo", "Fenalco"
+  "Porsche", "Toyota", "Kia", "Honda", "Mazda",
+  "Volkswagen", "Chevrolet", "Seat", "Cupra", "Autogermana",
+  "Google", "Samsung", "Sony", "Xiaomi", "Honor",
+  "Avianca", "Primax", "Mastercard", "BBVA", "Sura",
+  "Mapfre", "Equidad", "Banco Falabella", "Banco AV Villas", "Skandia",
+  "Addi", "Bold", "Universidad de los Andes", "Cemex", "Corona",
+  "Pavco Wavin", "Amarilo", "Cusezar", "Globant", "Colcafé",
+  "Heineken", "Grupo Nutresa", "Postobón", "Purina", "Henkel",
+  "Quala", "Rappi", "Amor Perfecto", "Alianza Team", "Bayer",
+  "Enel", "Canal RCN", "Abbott", "Fenalco"
 ];
 
 /* Texto que acompaña la cinta */
