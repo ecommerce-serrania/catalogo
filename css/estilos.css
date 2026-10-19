@@ -105,7 +105,7 @@ p strong, li strong{ font-weight: 700; color: var(--tinta); }
   height: 68px;
 }
 .logo{ display:flex; align-items:center; gap:9px; flex:0 0 auto; }
-.logo svg{ width:30px; height:auto; }
+.logo svg{ width:15px; height:auto; }
 /* Logo en imagen. Ajusta la altura si tu PNG se ve muy grande o muy pequeño. */
 .logo img{ height:15px; width:auto; }
 .logo-texto{
