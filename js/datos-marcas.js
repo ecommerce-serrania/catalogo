@@ -24,7 +24,7 @@ window.MARCAS = [
   "Pavco Wavin", "Amarilo", "Cusezar", "Globant", "Colcafé",
   "Heineken", "Grupo Nutresa", "Postobón", "Purina", "Henkel",
   "Quala", "Rappi", "Amor Perfecto", "Alianza Team", "Bayer",
-  "Enel", "Canal RCN", "Abbott", "Fenalco"
+  "Enel", "Canal RCN", "Abbott", "Fenalco", "Open English"
 ];
 
 /* Texto que acompaña la cinta */
