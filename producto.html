@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="es-CO">
+<head>
+<meta charset="utf-8">
+<title>Serranía — la ficha cambió de dirección</title>
+<!-- Las fichas pasaron de /producto.html a /catalogo/producto.html.
+     Este archivo existe solo para que los enlaces viejos no se rompan.
+     Sin noindex a propósito: Google debe seguir el salto y trasladar el
+     valor de la dirección vieja a la nueva. -->
+<link rel="canonical" href="https://catalogo.serrania.co/catalogo/producto.html">
+<meta http-equiv="refresh" content="0; url=catalogo/producto.html">
+<script>
+  // Conserva la prenda que traía el enlace: ?id=cyclone y demás
+  location.replace("catalogo/producto.html" + location.search + location.hash);
+</script>
+<link rel="icon" type="image/png" href="img/favicon.png">
+<style>
+  body{font-family:Montserrat,Arial,sans-serif;background:#0B3A47;color:#fff;
+       display:grid;place-items:center;min-height:100vh;margin:0;text-align:center;padding:24px}
+  a{color:#C08A2E;font-weight:700}
+</style>
+</head>
+<body>
+  <div>
+    <p>Esta prenda cambió de dirección.</p>
+    <p><a href="catalogo/producto.html">Ir al catálogo</a></p>
+  </div>
+</body>
+</html>
